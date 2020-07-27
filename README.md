@@ -2,7 +2,8 @@
 
 I'm working as a [freelance machine learning engineer and data scientist](https://tobiassterbak.com/). Read [my blog](https://www.depends-on-the-definition.com/) or [follow @tobias_sterbak on Twitter](https://twitter.com/tobias_sterbak).
 
-<table><tr><td valign="top" width="33%">
+<table><tr>
+  <td valign="top" width="33%">
 
 ### On my blog
 <!-- blog starts -->
@@ -12,7 +13,7 @@ I'm working as a [freelance machine learning engineer and data scientist](https:
 * [Data validation for NLP machine learning applications](https://www.depends-on-the-definition.com/data-validation-for-nlp/) - 2020-01-30
 * [Find label issues with confident learning for NLP](https://www.depends-on-the-definition.com/confident-learning-for-nlp/) - 2020-01-21
 <!-- blog ends -->
-More on [www.depends-on-the-definition.com/](https://www.depends-on-the-definition.com/)
-</td><td valign="top" width="33%">
 
-</table>
+More on [www.depends-on-the-definition.com/](https://www.depends-on-the-definition.com/)
+</td>
+</tr></table>
