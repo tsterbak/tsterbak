@@ -15,4 +15,4 @@ I'm working as a [freelance machine learning engineer and data scientist](https:
 More on [www.depends-on-the-definition.com/](https://www.depends-on-the-definition.com/)
 </td><td valign="top" width="33%">
 
-</td></tr></table>
+</table>
