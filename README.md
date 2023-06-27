@@ -9,6 +9,7 @@ Read [my blog](https://www.depends-on-the-definition.com/) or [follow @tobias_st
 
 ### Recently on my blog
 <!-- blog starts -->
+* [Causal graphs and the back-door criterion - A practical test on deconfounding](https://www.depends-on-the-definition.com/causal-graphs-and-deconfounding/) - 2023-02-19
 * [How to calculate shapley values from scratch](https://www.depends-on-the-definition.com/shapley-values-from-scratch/) - 2022-07-19
 * [How to add new tokens to huggingface transformers vocabulary](https://www.depends-on-the-definition.com/how-to-add-new-tokens-to-huggingface-transformers/) - 2022-05-12
 * [Learning unsupervised embeddings for textual similarity with transformers](https://www.depends-on-the-definition.com/unsupervised-text-embeddings-with-transformers/) - 2021-05-24
