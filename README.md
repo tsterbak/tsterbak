@@ -2,7 +2,7 @@
 
 Currently developing the [OpenAndroidInstaller](https://github.com/openandroidinstaller-dev/openandroidinstaller) to make installing alternative Android distributions nice and easy.
 I work as a [freelance machine learning engineer and data scientist](https://tobiassterbak.com/).
-Read [my blog](https://www.depends-on-the-definition.com/) or [follow @tobias_sterbak on Twitter](https://twitter.com/tobias_sterbak).
+Read [my blog](https://www.depends-on-the-definition.com/) or [follow me on Mastodon](https://chaos.social/@tsterbak).
 
 <table><tr>
   <td valign="top" width="33%">
