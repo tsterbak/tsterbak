@@ -1,8 +1,21 @@
 ### Hi there 👋
 
-Currently developing the [OpenAndroidInstaller](https://github.com/openandroidinstaller-dev/openandroidinstaller) to make installing alternative Android distributions nice and easy.
-I work as a [freelance machine learning engineer and data scientist](https://tobiassterbak.com/).
+I work as a [freelance machine learning engineer and data scientist](https://tobiassterbak.com/) with a focus on NLP.
 Read [my blog](https://www.depends-on-the-definition.com/) or [follow me on Mastodon](https://chaos.social/@tsterbak).
+
+
+<table><tr>
+  <td valign="top" width="33%">
+
+### Open source projects
+<!-- projects starts -->
+* [OpenAndroidInstaller](https://github.com/openandroidinstaller-dev/openandroidinstaller) to make installing alternative Android distributions nice and easy.
+* [PromptMage](https://github.com/tsterbak/promptmage) simplifies the process of creating and managing LLM workflows as a self-hosted solution.
+* [Biasylze](https://github.com/biaslyze-dev/biaslyze) helps to get started with the analysis of bias within NLP models.
+<!-- projects ends -->
+
+</td>
+</tr></table>
 
 <table><tr>
   <td valign="top" width="33%">
